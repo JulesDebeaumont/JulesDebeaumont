@@ -1,4 +1,4 @@
-### Jules Debeaumont
+# Jules Debeaumont
 
 Développeur Web Junior à la recherche de projets innovants !
 
