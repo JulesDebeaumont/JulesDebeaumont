@@ -21,4 +21,4 @@ Hello, I'm a Fullstack Web Developper!
 <br />
 <br />
  
-[linkedin]: https://linkedin.com/
+[linkedin]: https://fr.linkedin.com/in/jules-debeaumont-a30284220
